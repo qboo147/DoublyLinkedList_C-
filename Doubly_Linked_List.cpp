@@ -38,7 +38,9 @@ void QuickSort(LinkedList& List);
 
 int main()
 {
-
+	LinkedList A;
+	InitList(A);
+	
 
 	return 0;
 }
